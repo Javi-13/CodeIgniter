@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Archivo de Views Logeo.php</h1>
+    <h2>Nueva Actualizacion</h2>
 </body>
 </html>
